@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/shaynemeyer/starwars-names/issues"
   },
-  "homepage": "https://github.com/shaynemeyer/starwars-names#readme"
+  "homepage": "https://github.com/shaynemeyer/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
